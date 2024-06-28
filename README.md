@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 🔭 I’m currently working on:
 - Developing a workshop on e-wearables [@factory3](https://factory3.org/)
 - Writing about data science, books, software engineering on my blog [elizabethwillard.github.io](https://elizabethwillard.github.io/)
-- My master's at UC Berkeley :)
+
 
 🌱 I’m currently learning:
 - About data visualization and telling good stories
+- About energy grid management for work!
+  
