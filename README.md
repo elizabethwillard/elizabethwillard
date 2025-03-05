@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently working on:
-- Developing a workshop on e-wearables [@factory3](https://factory3.org/)
+- Developing a workshop on e-wearables [@Maine College of Art and Design](https://meca.edu/academics/continuing-studies/)
 - Writing about data science, books, software engineering on my blog [elizabethwillard.github.io](https://elizabethwillard.github.io/)
 
 
